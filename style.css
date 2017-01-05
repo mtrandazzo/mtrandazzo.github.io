@@ -1,7 +1,7 @@
 body {
   font-family: 'times new roman', joker, times new roman;
   font-weight: 500;
-  background-image: url(linedpaper.png);
+  background-image: url(ChicagoSkyline1.jpg);
   background-repeat: repeat;
 }
 #wrapper {
@@ -12,7 +12,7 @@ h1 {
   color: green;
 }
 h1 {
-  color: yellow;
+  color: blue;
 }
 h4 {
   color: orange;
